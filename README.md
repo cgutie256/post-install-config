@@ -48,7 +48,7 @@ Once you have logged in, navigate to the roles tab by clicking on Agents, then R
 <br />
 <img src="https://github.com/user-attachments/assets/7663100f-3b28-44bd-8c0f-b7ad8d50c437" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Click Add a new role, the name will be Supreme Admin, go to the permissions tab, and make sure everything is checked.
+Click "Add a new role." The name will be "Supreme Admin." Go to the Permissions tab and ensure everything is checked.
 
 
 </p>
@@ -56,7 +56,7 @@ Click Add a new role, the name will be Supreme Admin, go to the permissions tab,
 <br />
 <img src="https://github.com/user-attachments/assets/1d74387e-c6b6-408a-8635-e3b27b15078f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Click Create Role, and that will generate the new role.
+Click "Create Role," and it will generate the new role.
 
 
 </p>
@@ -64,7 +64,7 @@ Click Create Role, and that will generate the new role.
 <br />
 <img src="https://github.com/user-attachments/assets/549b154f-1727-4332-b0f0-8e5c90e1184f" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Next we will configure the departments. 
+Next, we will configure the departments. 
 
 
 </p>
@@ -96,7 +96,7 @@ Let’s create a user named Jane Doe. Set a password you’ll remember, then und
 <br />
 <img src="https://github.com/user-attachments/assets/e346dfe6-6897-4d82-958a-f6f818459c74" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Now let’s add a user named John Doe. Set a password you’ll remember, make him a view only user in the Support department, and leave everything else as-is.
+Now let’s add a user named John Doe. Set a password you’ll remember, make him a view-only user in the Support department, and leave everything else as-is.
 
 
 </p>
@@ -104,7 +104,7 @@ Now let’s add a user named John Doe. Set a password you’ll remember, make hi
 <br />
 <img src="https://github.com/user-attachments/assets/f1678acd-d6fd-4132-8077-1c2d6b8d67fa" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Next, we’re heading over to the Agent Panel where we are going to create a user from there.
+Next, we’re heading over to the Agent Panel, where we are going to create a user from there.
 
 
 </p>
@@ -133,7 +133,7 @@ Now we’re gonna set up 3 different SLAs. Head back to the Admin Panel, then go
 <br />
 <img src="https://github.com/user-attachments/assets/4708589e-93d8-45c9-86aa-654f398563d7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
-Finnally we will create 5 help topics to give users options when making help tickets. </p>
+Finally, we will create 5 help topics to give users options when making help tickets. </p>
 </p>
 
 - Business Critical Outage (Report a Problem)
